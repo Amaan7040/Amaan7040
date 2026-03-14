@@ -20,6 +20,7 @@ My name is **Mohd Amaan Khan**. I completed my Bachelor’s degree in Computer A
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-amaan-khan-03a02726b/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khan.amaan1298@gmail.com)
 [![Portfolio Web](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?logo=google-chrome&logoColor=white)](https://my-portfolio-l7ym.onrender.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/amaankhan24)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,6 +42,13 @@ My name is **Mohd Amaan Khan**. I completed my Bachelor’s degree in Computer A
 ![LangSmith](https://img.shields.io/badge/LangSmith-%23000000.svg?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-%23007ACC.svg?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge)
+
+
+## 🤖 Try My Chatbot
+
+You can also talk with my **basic AI chatbot** about anything and it will generate engaging responses.
+
+[![Try Chatbot](https://img.shields.io/badge/Chatbot-Try%20Now-blue?style=for-the-badge&logo=robotframework&logoColor=white)](https://laughterbot.onrender.com)
 
 
 # 📊 GitHub Stats:
