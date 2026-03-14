@@ -18,7 +18,7 @@ My name is **Mohd Amaan Khan**. I completed my Bachelor’s degree in Computer A
 
 **NexusBot** is an AI chatbot platform that enables anyone to create, customize, and integrate an intelligent chatbot for their website within minutes — without complex setup.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7430289859967221761?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+[![Watch Demo ](https://img.shields.io/badge/LinkedIn-Watch%20Demo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7430289859967221761)
 
 ### How NexusBot Works (5 Simple Steps)
 
@@ -37,7 +37,7 @@ My name is **Mohd Amaan Khan**. I completed my Bachelor’s degree in Computer A
 - **Testing for improved accuracy**
 - **Designed for scalability and efficiency**
 
-**NexusBot simplifies chatbot creation—making AI-driven customer interaction accessible, fast, and reliable for modern websites.**
+#### **NexusBot simplifies chatbot creation—making AI-driven customer interaction accessible, fast, and reliable for modern websites.**
 ---
 
 ## 🌐 Socials:
