@@ -19,6 +19,7 @@ My name is **Mohd Amaan Khan**. I completed my Bachelor’s degree in Computer A
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amaankhan_24amaanjii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-amaan-khan-03a02726b/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khan.amaan1298@gmail.com)
+[![Portfolio Web](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?logo=google-chrome&logoColor=white)](https://my-portfolio-l7ym.onrender.com/)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
