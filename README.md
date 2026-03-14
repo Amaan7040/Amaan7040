@@ -12,6 +12,31 @@ My name is **Mohd Amaan Khan**. I completed my Bachelor’s degree in Computer A
 - Added features like **personalized career path suggestions**, **course recommendations**, and career insights.
 - Designed to help users make data-driven career decisions using Machine Learning models.
 
+
+
+### **NexusBot – Build Website Chatbots in Just 10 Minutes**
+
+**NexusBot** is an AI chatbot platform that enables anyone to create, customize, and integrate an intelligent chatbot for their website within minutes — without complex setup.
+
+### How NexusBot Works (5 Simple Steps)
+
+1. Create your bot by defining a unique **bot name**
+2. Feed your chatbot with a **custom knowledge base**
+3. Configure **fallback responses** for unanswered queries
+4. Generate a **ready-to-use integration snippet** by providing your website URL and embed it in your website code
+5. **Test chatbot responses and accuracy** before going live
+
+### Why NexusBot?
+
+- Build a chatbot in **under 10 minutes**
+- **AI-powered context-aware conversations**
+- **Knowledge-base driven responses i.e RAG(Retrieval Augmented Generation) concept**
+- **Plug-and-play website integration through integration code snippet for the user's website**
+- **Testing for improved accuracy**
+- **Designed for scalability and efficiency**
+
+💡 **NexusBot simplifies chatbot creation—making AI-driven customer interaction accessible, fast, and reliable for modern websites.**
+
 ---
 
 ## 🌐 Socials:
