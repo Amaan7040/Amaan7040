@@ -1,5 +1,9 @@
 # 💫 About Me:
-My name is **Mohd Amaan Khan**. I completed my Bachelor’s degree in Computer Applications from Jamia Hamdard in July 2025. I have completed a three-month internship at Flourish Digital Pvt. Ltd. as an AI/ML Intern, where I worked on developing Retrieval-Augmented Generation (RAG) based chatbots. Through this experience, I gained hands-on exposure to how intelligent AI systems are designed, implemented, and deployed, along with a clear understanding of their real-world applications, strengths, and limitations.
+My name is **Mohd Amaan Khan**, and I completed my Bachelor’s degree in Computer Applications (BCA) from Jamia Hamdard University in July 2025. I have a strong foundation in **Artificial Intelligence and Machine Learning**, supported by hands-on experience in developing and deploying several AI/ML-based projects. Through my academic journey and practical work, I have developed the ability to design intelligent systems that address real-world problems.
+
+I also completed a **three-month internship at Flourish Digital Pvt. Ltd. as an AI/ML Intern**, where I worked on developing Retrieval-Augmented Generation (RAG) based chatbots. This experience provided me with practical exposure to how intelligent AI systems are designed and implemented, along with a deeper understanding of their real-world applications, strengths, and limitations.
+
+Currently, I am further expanding my expertise by learning and building RAG-based chatbots that enhance user interaction and provide automated support. For this, I primarily use LangChain and Large Language Models (LLMs) for chatbot development. In addition, I am exploring Agentic AI concepts using the LangGraph framework to understand how intelligent agents and tools are designed and orchestrated to perform complex tasks autonomously.Also learning the concept of Docker as well.
 
 ---
 
