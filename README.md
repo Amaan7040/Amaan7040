@@ -70,6 +70,7 @@ Based in : New Delhi, India
 
 - 🦜 Advanced RAG pipelines with **LangChain + LLMs**
 - 🤖 Agentic AI workflows using **LangGraph**
+- 🧩 Multi-agent systems with **Google ADK**
 - 🐳 **Docker** for containerization & scalable deployments
 
 ---
@@ -78,9 +79,21 @@ Based in : New Delhi, India
 
 ---
 
+<br/>
 
+## 🏆 Highlights
+
+| 🏅 Highlight | 📌 Detail |
+|---|---|
+| 🎯 Job Role Predictor | **99% accuracy** model, published on [Kaggle](https://www.kaggle.com/models/amaankhan24/job-role-predictor) |
+| ⭐ Resume Score Predictor | **98% accuracy** model, deployed in a live product |
+| 🤖 Production RAG Chatbots | Designed & deployed at Flourish Digital |
+| 🚀 Live Products | Careerlyzer & NexusBot, both built end to end |
+| 🎓 Academics | **9.13 CGPA**, BCA, Jamia Hamdard University |
 
 <br/>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -91,7 +104,6 @@ Based in : New Delhi, India
 <a href="https://careerlyzer.onrender.com/">
   <img src="https://img.shields.io/badge/🔗%20Live%20Demo-careerlyzer.onrender.com-00C4FF?style=for-the-badge"/>
 </a>
-&nbsp;
 
 <br/><br/>
 
@@ -158,9 +170,31 @@ Based in : New Delhi, India
 
 <br/>
 
+**🏗️ Architecture (RAG flow)**
+
+```mermaid
+flowchart LR
+    A[👤 User Query] --> B[🔢 Embedding Model]
+    B --> C[(🗄️ Vector DB)]
+    C --> D[🔍 Retriever]
+    D --> E[🧠 LLM]
+    E --> F[💬 Answer]
+    G[📚 Custom Knowledge Base] --> B
+```
+
+<br/>
+
 ---
 
 ## 💻 Tech Stack
+
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,docker,mongodb,mysql,sqlite,pytorch,sklearn,git,github,vscode&perline=13" />
+
+</div>
 
 <br/>
 
@@ -177,12 +211,14 @@ Based in : New Delhi, India
 ![LangChain](https://img.shields.io/badge/LangChain-%2300A67E.svg?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-%23007ACC.svg?style=for-the-badge)
 ![LangSmith](https://img.shields.io/badge/LangSmith-%23000000.svg?style=for-the-badge)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge)
 
 **🌐 Web Frameworks & Deployment**
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -205,10 +241,13 @@ Based in : New Delhi, India
 current_focus = {
     "RAG Pipelines"   : "Advanced retrieval strategies & hybrid search",
     "Agentic AI"      : "Multi-agent orchestration with LangGraph",
+    "Google ADK"      : "Building multi-agent systems with Google's Agent Development Kit",
     "Docker"          : "Containerization & scalable deployments",
     "LLM Fine-tuning" : "Adapting models for domain-specific tasks",
 }
 ```
+
+> 🧪 My Google ADK learning projects → [Google-Agent-Development-Kit](https://github.com/Amaan7040/Google-Agent-Development-Kit)
 
 <br/>
 
@@ -253,6 +292,18 @@ current_focus = {
 
 ---
 
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Amaan7040&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+<br/>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -262,6 +313,28 @@ current_focus = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amaan7040/Amaan7040/output/github-snake.svg" />
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Amaan7040/Amaan7040/output/github-snake.svg" width="95%" />
 </picture>
+
+</div>
+
+<br/>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+> 🟢 **Open to AI / ML Engineer roles, internships, and collaborations.**
+> Got an idea involving RAG, agents, or LLM apps? Let's talk!
+
+<br/>
+
+<a href="mailto:khan.amaan1298@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-khan.amaan1298%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/mohd-amaan-khan-03a02726b/">
+  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
