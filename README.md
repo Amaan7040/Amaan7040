@@ -190,14 +190,6 @@ flowchart LR
 
 <br/>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,docker,mongodb,mysql,sqlite,pytorch,sklearn,git,github,vscode&perline=13" />
-
-</div>
-
-<br/>
-
 **🤖 AI / Machine Learning**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
